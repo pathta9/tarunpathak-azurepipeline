@@ -9,3 +9,4 @@ resource "azurerm_resource_group" "example223" {
   name     = "example-resources223"
   location = "West Europe"
 }
+
